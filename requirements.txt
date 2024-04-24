@@ -1,0 +1,4 @@
+ctransformers
+llmsherpa
+llama-index
+langchain
